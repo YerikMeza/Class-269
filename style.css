@@ -1,0 +1,17 @@
+body{
+background: steelblue;
+}
+
+
+#select{
+width: 30%;
+}
+
+#text_area{
+width: 80%;
+}
+
+h1{
+background: skyblue;
+padding:15px;
+}
